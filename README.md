@@ -28,4 +28,3 @@ This application is build using a tool by [Expo](https://expo.io/) called 'creat
   <img src="screenshot/6.png" width="25%" />
   <img src="screenshot/7.png" width="25%" />
 </p>
-# Flashcards-App
